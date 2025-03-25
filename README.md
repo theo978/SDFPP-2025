@@ -1,6 +1,6 @@
 # 💼 SDFPP Resume Project
 
-Welcome to your first major **portfolio project** in the Software Development Foundation Portfolio Project (SDFPP). In this challenge, you’ll create your very own online resume — a personal website that shows off your skills, experience, and code style using **HTML and CSS**.
+Welcome to your first major **portfolio project** in the Software Development Program is a resume project (SDFPP). In this challenge, using a [Figma design file](https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1) as reference, you’ll create your very own online resume — a personal website that shows off your skills, experience, and code style using **HTML and CSS**.
 
 This is not just practice — this is something you can proudly include in your portfolio and share with future employers!
 
@@ -15,8 +15,10 @@ This is not just practice — this is something you can proudly include in your 
 **Deployment:** Not required — site must run locally in browser  
 **Submission Includes:**
 - A link to your GitHub repo
-- A screen recording of your presentation (5–8 minutes)
+- A screen recording of your presentation (5–10 minutes)
 - A complete README (you’re reading it!)
+
+ 🎨Link to Figma Reference File: https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1
 
 ---
 
