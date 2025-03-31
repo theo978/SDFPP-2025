@@ -4,7 +4,7 @@
 
 🎥 **Recording Guidelines:**
 - 5–10 minutes long  
-- Use screen recording (e.g. [Windows recording](https://www.microsoft.com/en-us/windows/learning-center/how-to-record-screen-windows-11), [Loom](https://www.loom.com/), [OBS](https://obsproject.com/), [Zoom](https://www.zoom.com/), [Screencastify](https://www.screencastify.com/))  
+- Use screen recording (e.g. [Veed.io](https://www.veed.io/) [Windows recording](https://www.microsoft.com/en-us/windows/learning-center/how-to-record-screen-windows-11), [Zoom](https://www.zoom.com/), [Loom](https://www.loom.com/), [OBS](https://obsproject.com/), [Screencastify](https://www.screencastify.com/))  
 - Show your code in the your video  
 - Upload the recording and submit the link along with your project in your README
 
